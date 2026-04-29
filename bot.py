@@ -1,4 +1,4 @@
-here# bot.py — DDNet Bridge Bot (python-telegram-bot 13.15)
+# bot.py — DDNet Bridge Bot (python-telegram-bot 13.15)
 
 import logging
 import asyncio

@@ -1,5 +1,5 @@
 # config.py
-BOT_TOKEN = "8601362165:AAEoOfTZAXUhOEXA4ZeJ39oLllP7JXhJzcw"  # Получи у @BotFather
+BOT_TOKEN = "8663122912:AAE2cEsp6fAc_EvDegcoewgahNNB21jDweY"  # Получи у @BotFather
 CHECK_INTERVAL = 30  # секунды между проверкой онлайна
 
 # Список скинов DDNet (можно дополнять)

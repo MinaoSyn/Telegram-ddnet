@@ -8,4 +8,3 @@ SKINS = [
     "penguin", "brownbear", "bluekitty", "coala", "santa",
     "twinbop", "greyfox", "red_ninja", "spiky", "warpaint",
 ]
-
